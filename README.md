@@ -3,6 +3,7 @@
 2. Heroku account
 3. VS code
 4. Git Ci
+5. [Git commands] (https://git-scm.com/docs/gittutorial/)
 
 Create virtual environment
 
