@@ -93,3 +93,12 @@ To run docker image
 docker run -p 5000:5000 -e PORT=5000 d7eb3691c57e
 ```
 To check whether it is working or not to go browser and enter localhost:5000
+To check running containers in docker
+```
+docker ps
+```
+
+To stop docker container
+```
+docker stop <container_id>
+```
